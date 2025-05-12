@@ -1,6 +1,6 @@
-import React from 'react'
+ 
 import { Container,Row,Col } from 'react-bootstrap'
-import "./Pricing.css";
+import "./pricing.css";
 import five from "../../assets/five.png"
 
 const Pricing = () => {
