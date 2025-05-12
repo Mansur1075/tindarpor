@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+/* common css */
+#five5{
+    padding: 100px 0;
+}
+.five h2{
+    text-align: center;
+    margin: 0 auto;
+}
+.five h2{
+    font-family: "Inter", sans-serif;
+    padding-left: 140px;
+    font-weight: 700 ;
+    font-size: 70px;
+    line-height: 76px;
+    color:#2E2F35 ;
+}
